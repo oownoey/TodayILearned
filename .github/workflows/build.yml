@@ -15,10 +15,10 @@ jobs:
         # necessary for github-action-til-autoformat-readme
         fetch-depth: 0
     - name: Autoformat README
-      uses: cflynn07/github-action-til-autoformat-readme@1.2.0
+      uses: cflynn07/github-action-til-autoformat-readme@1.1.0
       with:
         description: |
-          Describe what I learned Today!
+          Describe what I learned Today!💫
         footer: |
           [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
           [2]: https://github.com/jbranchaud/til
